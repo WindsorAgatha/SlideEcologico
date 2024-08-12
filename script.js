@@ -32,5 +32,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Rotação automática a cada 4 segundos
-    setInterval(nextSlide, 4000)
+    setInterval(nextSlide, 4500)
 })

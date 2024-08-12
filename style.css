@@ -59,36 +59,7 @@ body {
     flex: 1 0 100%;
 }
 
-#slide1 {
-    height: 100%;
-    width: 100%;
-    background-color: blue;
-}
-
-#slide2 {
-    height: 100%;
-    width: 100%;
-    background-color: red;
-}
-
-#slide3 {
-    height: 100%;
-    width: 100%;
-    background-color: yellow;
-}
-
-#slide4 {
-    height: 100%;
-    width: 100%;
-    background-color: green;
-}
-
-#slide5{
-    height: 100%;
-    width: 100%;
-}
-
-#slide5 img {
+.img-slide{
     height: 100vh;
     width: 100%;
 }
